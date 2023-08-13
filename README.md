@@ -2,6 +2,8 @@
 
 The Clinic Management System is a simple C-based application designed to facilitate the management of patients and appointment slots in a clinic. It offers separate modes for administrators and users, ensuring streamlined processes for patient registration, appointment booking, and more.
 
+![Screenshot 2023-08-13 091804](https://github.com/t0ti20/Clinic_Management_System/assets/61616031/539a5147-72cd-4d63-a782-168299c50dbc)
+
 ## Features
 
 ### Admin Mode
