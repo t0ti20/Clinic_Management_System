@@ -88,8 +88,8 @@ void main(void)						/* Main Function To Select The Nature Of The User */
 	while(flag)
 	{
 		printf("1) Admin\n2) User\n3) Exit\nPlease Choose An Option : ");	  /* User Or Admin Option */
-		scanf("%d",&user);
-		switch (user)
+		scanf("%d",&user_nature);
+		switch (user_nature)
 		{
 		case (1):flag=admin_user();break;
 		case (2):flag=patient_user();break;
